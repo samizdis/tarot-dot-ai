@@ -1,0 +1,137 @@
+:root {
+  --bg: #0e0b16;
+  --panel: #1a1525;
+  --ink: #f4f1e8;
+  --ink-dim: #a39db0;
+  --accent: #c9a96b;
+  --accent-dim: #6b5836;
+  --card-back: #2a1f3d;
+  --shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+  font-family: ui-serif, Georgia, "Times New Roman", serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  min-height: 100vh;
+}
+
+#app {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 4rem;
+}
+
+h1 {
+  font-weight: 400;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-size: 1.35rem;
+  text-align: center;
+  color: var(--accent);
+  margin-bottom: 2rem;
+}
+
+.subtitle {
+  text-align: center;
+  color: var(--ink-dim);
+  margin-top: -1.5rem;
+  margin-bottom: 2.5rem;
+  font-style: italic;
+  font-size: 0.95rem;
+}
+
+button {
+  background: transparent;
+  color: var(--accent);
+  border: 1px solid var(--accent-dim);
+  padding: 0.7rem 1.4rem;
+  font-family: inherit;
+  font-size: 0.9rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+button:hover:not(:disabled) {
+  background: rgba(201, 169, 107, 0.08);
+  border-color: var(--accent);
+}
+
+button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.controls {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.spread {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+  margin: 2rem 0;
+}
+
+@media (max-width: 600px) {
+  .spread {
+    grid-template-columns: 1fr;
+  }
+}
+
+.reading {
+  background: var(--panel);
+  border: 1px solid var(--accent-dim);
+  padding: 1.75rem 2rem;
+  margin-top: 2.5rem;
+  line-height: 1.7;
+  box-shadow: var(--shadow);
+}
+
+.reading h2 {
+  color: var(--accent);
+  font-weight: 400;
+  margin-top: 1.75rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+  letter-spacing: 0.05em;
+}
+
+.reading h2:first-child {
+  margin-top: 0;
+}
+
+.reading p {
+  color: var(--ink);
+  margin: 0.5rem 0;
+}
+
+.reading .cursor {
+  display: inline-block;
+  width: 0.6ch;
+  background: var(--accent);
+  animation: blink 1s steps(2) infinite;
+  height: 1em;
+  vertical-align: text-bottom;
+}
+
+@keyframes blink {
+  to { opacity: 0; }
+}
+
+.error {
+  color: #e08c8c;
+  margin-top: 1rem;
+  text-align: center;
+  font-style: italic;
+}
