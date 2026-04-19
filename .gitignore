@@ -16,3 +16,6 @@ dist/
 
 # OS
 .DS_Store
+
+# Editor / local tool state
+.claude/

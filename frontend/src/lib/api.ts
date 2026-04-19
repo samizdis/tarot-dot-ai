@@ -33,12 +33,16 @@ export interface ReadingHandlers {
   onError: (msg: string) => void;
 }
 
-// Open an SSE stream for the reading. Returns an abort function.
+export type Section = "past" | "present" | "future" | "synthesis";
+
+// Open an SSE stream for one section of the reading. Returns an abort function.
 export function openReadingStream(
   drawId: string,
+  section: Section,
   handlers: ReadingHandlers,
 ): () => void {
-  const es = new EventSource(`/api/reading?draw_id=${encodeURIComponent(drawId)}`);
+  const qs = new URLSearchParams({ draw_id: drawId, section });
+  const es = new EventSource(`/api/reading?${qs}`);
 
   es.addEventListener("token", (ev) => {
     // Backend escapes \n as "\\n" so we restore it here.
