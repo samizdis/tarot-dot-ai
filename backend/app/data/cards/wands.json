@@ -1,0 +1,156 @@
+[
+  {
+    "id": "ace-of-wands",
+    "name": "Ace of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 1,
+    "keywords_upright": ["inspiration", "new ideas", "creative spark", "potential"],
+    "keywords_reversed": ["delays", "creative block", "lack of direction", "missed opportunity"],
+    "short_upright": "A bolt of creative energy and the impulse to begin something. Raw potential and inspiration arrive, asking to be channeled into action.",
+    "short_reversed": "The spark exists but won't catch. Creative blocks, hesitation, or scattered energy stalling what wants to ignite."
+  },
+  {
+    "id": "two-of-wands",
+    "name": "Two of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 2,
+    "keywords_upright": ["planning", "future vision", "personal power", "discovery"],
+    "keywords_reversed": ["fear of unknown", "playing safe", "indecision", "stalled plans"],
+    "short_upright": "Standing at the edge of your world, mapping where to go next. The first move has been made and now you weigh the wider horizon with growing confidence.",
+    "short_reversed": "Plans stall in the planning stage. Fear of leaving familiar ground keeps you rehearsing the same options instead of choosing one."
+  },
+  {
+    "id": "three-of-wands",
+    "name": "Three of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 3,
+    "keywords_upright": ["expansion", "foresight", "progress", "long-term success"],
+    "keywords_reversed": ["delays", "obstacles", "limited scope", "frustration"],
+    "short_upright": "Early efforts begin to bear fruit and the view widens. You watch your ships come in, ready to expand into broader territory.",
+    "short_reversed": "Anticipated returns are slower than hoped. Setbacks or a too-narrow vision are limiting how far your work can travel."
+  },
+  {
+    "id": "four-of-wands",
+    "name": "Four of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 4,
+    "keywords_upright": ["celebration", "homecoming", "harmony", "milestones"],
+    "keywords_reversed": ["instability", "tension at home", "cancelled plans", "lack of support"],
+    "short_upright": "A milestone reached and a moment to gather with those who share your work. Stability and joy arrive together, marking real progress.",
+    "short_reversed": "The celebration feels strained or postponed. Friction at home or in your community undercuts the sense of arrival you were looking for."
+  },
+  {
+    "id": "five-of-wands",
+    "name": "Five of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 5,
+    "keywords_upright": ["conflict", "competition", "disagreement", "scrappy energy"],
+    "keywords_reversed": ["resolution", "avoiding conflict", "inner tension", "finding common ground"],
+    "short_upright": "Clashing wills and competing voices crowd the room. The friction is real but often productive, sharpening ideas through honest disagreement.",
+    "short_reversed": "The fight winds down or moves inward. Tensions cool through compromise, or get suppressed and simmer beneath the surface."
+  },
+  {
+    "id": "six-of-wands",
+    "name": "Six of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 6,
+    "keywords_upright": ["victory", "recognition", "public success", "confidence"],
+    "keywords_reversed": ["ego", "fall from grace", "lack of recognition", "private doubt"],
+    "short_upright": "Effort pays off in visible, public success. Others see what you have built and the recognition fuels well-earned confidence.",
+    "short_reversed": "Acknowledgment fails to land or curdles into ego. Either the win goes unseen, or the spotlight breeds arrogance that weakens what comes next."
+  },
+  {
+    "id": "seven-of-wands",
+    "name": "Seven of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 7,
+    "keywords_upright": ["defending position", "perseverance", "conviction", "standing ground"],
+    "keywords_reversed": ["overwhelm", "giving up", "self-doubt", "outnumbered"],
+    "short_upright": "Holding the high ground against pressure from below. Your position is challenged and the work now is to defend it with steady conviction.",
+    "short_reversed": "The challenges are mounting faster than you can answer them. Doubt creeps in and the urge to drop the fight starts to feel reasonable."
+  },
+  {
+    "id": "eight-of-wands",
+    "name": "Eight of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 8,
+    "keywords_upright": ["swift action", "momentum", "messages", "rapid progress"],
+    "keywords_reversed": ["delays", "miscommunication", "loss of momentum", "frustration"],
+    "short_upright": "Things move quickly after a long pause. News, decisions, and opportunities arrive in rapid succession, asking you to keep pace.",
+    "short_reversed": "Momentum stalls and signals get crossed. Plans drag, messages misfire, and the rhythm you were counting on falls out of step."
+  },
+  {
+    "id": "nine-of-wands",
+    "name": "Nine of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 9,
+    "keywords_upright": ["resilience", "last stand", "boundaries", "weary persistence"],
+    "keywords_reversed": ["exhaustion", "paranoia", "burnout", "refusing help"],
+    "short_upright": "Bruised but still standing, with one more push left in you. Past battles have made you wary, yet that hard-won experience is exactly what carries you through.",
+    "short_reversed": "Defenses have hardened into walls. Exhaustion and mistrust make every new ask feel like an attack, even from people trying to help."
+  },
+  {
+    "id": "ten-of-wands",
+    "name": "Ten of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 10,
+    "keywords_upright": ["burden", "responsibility", "overload", "hard work"],
+    "keywords_reversed": ["releasing burden", "delegation", "burnout breaking", "letting go"],
+    "short_upright": "Carrying more than any one person should. The work is real and meaningful, but the load has grown heavy enough to obscure why you started.",
+    "short_reversed": "The weight finally comes off, by choice or by collapse. What you set down clears space, even if letting go feels like loss at first."
+  },
+  {
+    "id": "page-of-wands",
+    "name": "Page of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 11,
+    "keywords_upright": ["enthusiasm", "exploration", "fresh ideas", "eager beginnings"],
+    "keywords_reversed": ["hesitation", "scattered energy", "immaturity", "false starts"],
+    "short_upright": "A young, eager spark with more curiosity than caution. New interests catch fire quickly, inviting you to chase them with a beginner's openness.",
+    "short_reversed": "The enthusiasm is there but won't focus. Ideas multiply faster than they're acted on, and projects start without ever quite landing."
+  },
+  {
+    "id": "knight-of-wands",
+    "name": "Knight of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 12,
+    "keywords_upright": ["bold action", "adventure", "passion", "charging ahead"],
+    "keywords_reversed": ["recklessness", "impulsiveness", "burnout", "delays"],
+    "short_upright": "All forward motion, fueled by passion and a love of the chase. Bold moves and big gestures push the situation into new territory fast.",
+    "short_reversed": "The same fire turns reckless or burns out. Charging without a plan creates wreckage, or the engine stalls before it ever leaves the driveway."
+  },
+  {
+    "id": "queen-of-wands",
+    "name": "Queen of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 13,
+    "keywords_upright": ["confidence", "warmth", "magnetism", "self-assured leadership"],
+    "keywords_reversed": ["jealousy", "insecurity", "self-doubt", "domineering"],
+    "short_upright": "Warm, magnetic, and entirely at home in her own power. She leads by presence rather than force, drawing others in through confidence and creative heat.",
+    "short_reversed": "That confidence wavers or curdles. Insecurity shows up as jealousy or control, and the easy charisma gets harder to access from the inside."
+  },
+  {
+    "id": "king-of-wands",
+    "name": "King of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 14,
+    "keywords_upright": ["vision", "leadership", "bold strategy", "natural authority"],
+    "keywords_reversed": ["impulsiveness", "tyranny", "overreach", "ineffective leadership"],
+    "short_upright": "A visionary leader who turns big ideas into committed direction. Authority sits naturally on him because he's willing to back his vision with action.",
+    "short_reversed": "Vision without discipline becomes ego. Decisions get made too fast, dissent gets dismissed, and leadership tips into bluster or domination."
+  }
+]
