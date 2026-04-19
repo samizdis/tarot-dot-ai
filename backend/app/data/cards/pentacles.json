@@ -1,0 +1,156 @@
+[
+  {
+    "id": "ace-of-pentacles",
+    "name": "Ace of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 1,
+    "keywords_upright": ["new opportunity", "prosperity", "manifestation", "stable foundation"],
+    "keywords_reversed": ["missed opportunity", "scarcity mindset", "poor planning", "lost prospect"],
+    "short_upright": "A solid, tangible offering — opportunity arrives in concrete form. New work, money, or material foundations ready to be planted.",
+    "short_reversed": "An opportunity slipping through fingers, or arriving without roots. Scarcity thinking, poor groundwork, or a chance not taken seriously enough."
+  },
+  {
+    "id": "two-of-pentacles",
+    "name": "Two of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 2,
+    "keywords_upright": ["balance", "juggling priorities", "adaptability", "time management"],
+    "keywords_reversed": ["overwhelm", "disorganization", "dropped ball", "imbalance"],
+    "short_upright": "Holding two demands in motion at once and finding rhythm. Resources, commitments, or roles juggled with practiced flexibility.",
+    "short_reversed": "The juggling act is faltering — too many balls, not enough hands. Priorities collide, finances wobble, and something is about to be dropped."
+  },
+  {
+    "id": "three-of-pentacles",
+    "name": "Three of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 3,
+    "keywords_upright": ["collaboration", "skill", "craftsmanship", "teamwork"],
+    "keywords_reversed": ["disharmony", "lack of teamwork", "mediocrity", "misaligned goals"],
+    "short_upright": "Skilled hands working in concert toward a shared build. Recognition for craft, and the productive meeting of expertise and vision.",
+    "short_reversed": "A collaboration that has lost its tune — roles unclear, effort uneven. Quality slips when the team is out of sync or working past one another."
+  },
+  {
+    "id": "four-of-pentacles",
+    "name": "Four of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 4,
+    "keywords_upright": ["security", "control", "saving", "holding on"],
+    "keywords_reversed": ["greed", "letting go", "release", "financial insecurity"],
+    "short_upright": "A tight grip on what has been earned, prizing security above all. Stability is real, but so is the fear that fuels the clutch.",
+    "short_reversed": "The fist relaxing — for better or worse. Either generous release of control, or resources slipping away as hoarding finally cracks."
+  },
+  {
+    "id": "five-of-pentacles",
+    "name": "Five of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 5,
+    "keywords_upright": ["hardship", "loss", "isolation", "financial strain"],
+    "keywords_reversed": ["recovery", "renewed support", "end of hardship", "asking for help"],
+    "short_upright": "Walking past warmth in the cold, sure that no help is offered. Material lack compounds with the loneliness of believing you must endure it alone.",
+    "short_reversed": "The thaw begins — work returns, debts ease, doors that seemed shut reopen. A turning point arrives, often through asking for the help that was always there."
+  },
+  {
+    "id": "six-of-pentacles",
+    "name": "Six of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 6,
+    "keywords_upright": ["generosity", "giving", "receiving", "fair exchange"],
+    "keywords_reversed": ["strings attached", "power imbalance", "debt", "uneven exchange"],
+    "short_upright": "Resources flowing where they are needed, measured and fair. The dignity of giving freely and the grace of receiving without shame.",
+    "short_reversed": "Generosity bent by power — gifts with hooks, charity that humiliates. Debts mount, scales tip, and exchange stops feeling honest."
+  },
+  {
+    "id": "seven-of-pentacles",
+    "name": "Seven of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 7,
+    "keywords_upright": ["patience", "long-term view", "assessment", "investment"],
+    "keywords_reversed": ["impatience", "wasted effort", "poor returns", "short-term thinking"],
+    "short_upright": "Pausing on the hoe to weigh what has grown so far. Slow returns reward the patient, and the work of cultivation is honored.",
+    "short_reversed": "The harvest is thin or the soil was wrong from the start. Frustration with slow progress tempts a hasty pivot before the real lesson lands."
+  },
+  {
+    "id": "eight-of-pentacles",
+    "name": "Eight of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 8,
+    "keywords_upright": ["mastery", "diligence", "apprenticeship", "focused work"],
+    "keywords_reversed": ["perfectionism", "uninspired work", "shortcuts", "lack of focus"],
+    "short_upright": "Head down, hands repeating the craft until the craft becomes second nature. The honest grind of a skill being refined one strike at a time.",
+    "short_reversed": "Going through the motions, or chasing flawlessness at the cost of progress. Either shortcuts erode quality or perfectionism stalls the work entirely."
+  },
+  {
+    "id": "nine-of-pentacles",
+    "name": "Nine of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 9,
+    "keywords_upright": ["self-sufficiency", "abundance", "refinement", "earned comfort"],
+    "keywords_reversed": ["overspending", "dependence", "superficial luxury", "isolation"],
+    "short_upright": "Standing in a garden you tended yourself, the fruit fully your own. Quiet luxury earned through discipline, and the contentment of independence.",
+    "short_reversed": "The garden is borrowed, the comfort hollow, or the bills outpace the show. Material reliance — on others or on appearances — masks a thinner foundation."
+  },
+  {
+    "id": "ten-of-pentacles",
+    "name": "Ten of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 10,
+    "keywords_upright": ["legacy", "family", "wealth", "lasting foundations"],
+    "keywords_reversed": ["family conflict", "financial loss", "fleeting wealth", "broken legacy"],
+    "short_upright": "Generations gathered under one roof, the wealth that outlasts a single life. Roots, lineage, and the security of belonging to something built to endure.",
+    "short_reversed": "Cracks in the inheritance — disputes over money, estrangement, or structures that will not hold. What was meant to last is being tested or lost."
+  },
+  {
+    "id": "page-of-pentacles",
+    "name": "Page of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 11,
+    "keywords_upright": ["new study", "ambition", "diligence", "tangible goals"],
+    "keywords_reversed": ["procrastination", "lack of follow-through", "unfocused", "missed potential"],
+    "short_upright": "A student of the practical arts, eyes fixed on a chosen coin. Fresh ambition rooted in real plans — willing to learn, willing to start small.",
+    "short_reversed": "Big ideas that never break ground, or study that drifts without aim. Potential goes unused while the next shiny thing distracts from the actual task."
+  },
+  {
+    "id": "knight-of-pentacles",
+    "name": "Knight of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 12,
+    "keywords_upright": ["reliability", "routine", "patience", "methodical effort"],
+    "keywords_reversed": ["stagnation", "stubbornness", "boredom", "overwork"],
+    "short_upright": "The slow horse that always finishes the field. Quiet, dependable progress — unglamorous, but deeply trustworthy and built to deliver.",
+    "short_reversed": "Routine hardened into rut — the same furrow turned without question. Stubbornness, monotony, or grinding effort that no longer moves anything forward."
+  },
+  {
+    "id": "queen-of-pentacles",
+    "name": "Queen of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 13,
+    "keywords_upright": ["nurturing", "practicality", "abundance", "groundedness"],
+    "keywords_reversed": ["self-neglect", "smothering", "imbalance of work and home", "materialism"],
+    "short_upright": "A capable hand that tends garden, ledger, and loved ones with equal care. Generous, grounded competence — abundance shared from a stable center.",
+    "short_reversed": "The cup runs dry from pouring it out for everyone else. Self-neglect, overextension at home or work, or care that has tipped into control."
+  },
+  {
+    "id": "king-of-pentacles",
+    "name": "King of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 14,
+    "keywords_upright": ["wealth", "leadership", "stability", "provider"],
+    "keywords_reversed": ["greed", "corruption", "stubbornness", "material obsession"],
+    "short_upright": "A builder who has turned skill and patience into a stable kingdom. Mature command of resources, generous in providing for what depends on him.",
+    "short_reversed": "The crown weighs heavy with greed or pride — wealth used to dominate rather than steward. Stubborn attachment to status, money, or the way things have always been done."
+  }
+]
