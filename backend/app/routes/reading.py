@@ -1,3 +1,5 @@
+import logging
+
 from fastapi import APIRouter, HTTPException
 from fastapi.responses import StreamingResponse
 
@@ -5,6 +7,7 @@ from app.routes.draw import get_draw
 from app.services.claude import SECTIONS, stream_reading
 
 router = APIRouter()
+log = logging.getLogger(__name__)
 
 
 @router.get("/reading")
@@ -23,8 +26,11 @@ async def get_reading(draw_id: str, section: str) -> StreamingResponse:
                 escaped = chunk.replace("\n", "\\n")
                 yield f"event: token\ndata: {escaped}\n\n"
             yield "event: done\ndata: end\n\n"
-        except Exception as exc:  # surface errors to the browser cleanly
-            yield f"event: error\ndata: {type(exc).__name__}: {exc}\n\n"
+        except Exception:
+            # Log details server-side; send only a generic message to the client
+            # so exception text (which could in theory carry secrets) never leaks.
+            log.exception("reading stream failed (draw_id=%s section=%s)", draw_id, section)
+            yield "event: error\ndata: upstream reading failed\n\n"
 
     return StreamingResponse(
         event_source(),
