@@ -1,0 +1,156 @@
+[
+  {
+    "id": "ace-of-swords",
+    "name": "Ace of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 1,
+    "keywords_upright": ["clarity", "breakthrough", "truth", "mental focus"],
+    "keywords_reversed": ["confusion", "muddled thinking", "misuse of power", "miscommunication"],
+    "short_upright": "A sudden cut through fog — clarity arrives sharp and decisive. Truth, breakthrough insight, or the mental edge to name what's really going on.",
+    "short_reversed": "The blade dulled or turned the wrong way. Confusion, half-truths, or clear thought weaponized into harm rather than understanding."
+  },
+  {
+    "id": "two-of-swords",
+    "name": "Two of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 2,
+    "keywords_upright": ["stalemate", "difficult choice", "avoidance", "uneasy truce"],
+    "keywords_reversed": ["indecision broken", "confusion", "information revealed", "stalemate ending"],
+    "short_upright": "A blindfolded standoff where neither side can move. You're holding two truths in tension, postponing a decision you sense you'll eventually have to make.",
+    "short_reversed": "The blindfold slips and the deadlock starts to give. New information surfaces, or the avoidance finally cracks under its own weight."
+  },
+  {
+    "id": "three-of-swords",
+    "name": "Three of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 3,
+    "keywords_upright": ["heartbreak", "painful truth", "grief", "betrayal"],
+    "keywords_reversed": ["healing", "forgiveness", "releasing pain", "recovery"],
+    "short_upright": "A clean, painful piercing of the heart. Grief, betrayal, or a truth that hurts but needed to be felt rather than buried.",
+    "short_reversed": "The blades begin to withdraw and the wound starts to close. Forgiveness, healing, or the slow release of a sorrow you've carried too long."
+  },
+  {
+    "id": "four-of-swords",
+    "name": "Four of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 4,
+    "keywords_upright": ["rest", "recovery", "contemplation", "retreat"],
+    "keywords_reversed": ["restlessness", "burnout", "stagnation", "forced isolation"],
+    "short_upright": "A deliberate stepping back to recover and integrate. Quiet, rest, and the kind of stillness that lets the mind heal before the next round.",
+    "short_reversed": "Either you can't sit still or you've sat too long. Restless exhaustion, lingering burnout, or a retreat that has slipped into avoidance."
+  },
+  {
+    "id": "five-of-swords",
+    "name": "Five of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 5,
+    "keywords_upright": ["conflict", "hollow victory", "ego", "discord"],
+    "keywords_reversed": ["reconciliation", "releasing resentment", "moving on", "lessons learned"],
+    "short_upright": "A win that costs more than it's worth. Conflict driven by ego, or the bitter aftertaste of being right at someone else's expense.",
+    "short_reversed": "The fight loses its grip and pride begins to soften. An opening for reconciliation, or the choice to set down a grudge you've outgrown."
+  },
+  {
+    "id": "six-of-swords",
+    "name": "Six of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 6,
+    "keywords_upright": ["transition", "moving on", "calmer waters", "passage"],
+    "keywords_reversed": ["resistance to change", "stuck", "unfinished business", "unresolved baggage"],
+    "short_upright": "A quiet crossing from troubled waters toward something steadier. The grief isn't gone, but you're moving — and the direction is finally forward.",
+    "short_reversed": "The boat won't leave the shore, or the same currents keep pulling you back. Unfinished business and old patterns make the transition harder than it should be."
+  },
+  {
+    "id": "seven-of-swords",
+    "name": "Seven of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 7,
+    "keywords_upright": ["deception", "strategy", "stealth", "getting away with it"],
+    "keywords_reversed": ["confession", "exposure", "coming clean", "self-deception revealed"],
+    "short_upright": "Slipping away with what you came for, by cleverness rather than force. Strategy, sleight of hand, or someone working an angle that hasn't been seen yet.",
+    "short_reversed": "The hidden moves come into the light. A confession, an exposure, or the moment you stop lying to yourself about what's really going on."
+  },
+  {
+    "id": "eight-of-swords",
+    "name": "Eight of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 8,
+    "keywords_upright": ["self-imposed limits", "feeling trapped", "victim mindset", "powerlessness"],
+    "keywords_reversed": ["release", "self-acceptance", "finding a way out", "freedom"],
+    "short_upright": "Bound and blindfolded by a cage that's mostly mental. The trap feels total, but the swords leave a clear path out the moment you turn your head.",
+    "short_reversed": "The blindfold drops and the bindings loosen. Recognizing your own role in the trap is exactly what frees you to walk away from it."
+  },
+  {
+    "id": "nine-of-swords",
+    "name": "Nine of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 9,
+    "keywords_upright": ["anxiety", "nightmares", "rumination", "dread"],
+    "keywords_reversed": ["relief", "hope returning", "facing fears", "anxiety easing"],
+    "short_upright": "Sitting up in the dark with the same thoughts circling. Anxiety and dread amplified by night and silence, often worse in the mind than in the world.",
+    "short_reversed": "The grip of the worst-case story begins to loosen. Daylight returns, fears get named out loud, and the catastrophe shrinks back to manageable size."
+  },
+  {
+    "id": "ten-of-swords",
+    "name": "Ten of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 10,
+    "keywords_upright": ["painful ending", "rock bottom", "betrayal", "collapse"],
+    "keywords_reversed": ["recovery", "regeneration", "resisting the end", "slow healing"],
+    "short_upright": "The full and final ending — there's nothing left to argue with. As bleak as it looks, the worst has already happened, and dawn is implied behind the figure.",
+    "short_reversed": "Beginning to lift up off the ground, slowly. Either healing is underway, or you're still resisting an ending that has already finished itself."
+  },
+  {
+    "id": "page-of-swords",
+    "name": "Page of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 11,
+    "keywords_upright": ["curiosity", "new ideas", "vigilance", "blunt honesty"],
+    "keywords_reversed": ["gossip", "scattered thinking", "cynicism", "all talk no follow-through"],
+    "short_upright": "A quick, watchful mind eager to test ideas against the world. Curious, blunt, and a little restless — the energy of learning out loud.",
+    "short_reversed": "The same sharp tongue without the discipline behind it. Gossip, scattered focus, or clever talk that never quite turns into action."
+  },
+  {
+    "id": "knight-of-swords",
+    "name": "Knight of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 12,
+    "keywords_upright": ["decisive action", "ambition", "directness", "charging forward"],
+    "keywords_reversed": ["recklessness", "burnout", "impatience", "tactlessness"],
+    "short_upright": "Full gallop toward the goal with sword raised. Bold, decisive, and impatient with anything that slows the charge — momentum as a way of being.",
+    "short_reversed": "The same speed without steering. Recklessness, burnout, or words and decisions delivered too fast to land well."
+  },
+  {
+    "id": "queen-of-swords",
+    "name": "Queen of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 13,
+    "keywords_upright": ["clear-eyed", "independent", "discerning", "honest"],
+    "keywords_reversed": ["coldness", "bitterness", "harsh judgment", "isolation"],
+    "short_upright": "Perceptive and unsentimental, she sees clearly because she's been through it. Direct truth offered without cruelty, and boundaries held without apology.",
+    "short_reversed": "Discernment hardened into coldness. Past hurts curdling into bitterness, judgment without warmth, or cutting people off rather than letting them in."
+  },
+  {
+    "id": "king-of-swords",
+    "name": "King of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 14,
+    "keywords_upright": ["intellectual authority", "ethical judgment", "clarity", "principled leadership"],
+    "keywords_reversed": ["abuse of power", "cold logic", "dogmatism", "manipulation"],
+    "short_upright": "The mind in command of itself — disciplined thought wielded with integrity. Sound judgment, clear principles, and the authority that comes from genuine understanding.",
+    "short_reversed": "Intellect cut loose from conscience. Cold logic, rigid dogma, or using a sharp mind to dominate and manipulate rather than to clarify."
+  }
+]

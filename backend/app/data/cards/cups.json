@@ -1,0 +1,156 @@
+[
+  {
+    "id": "ace-of-cups",
+    "name": "Ace of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 1,
+    "keywords_upright": ["new feelings", "emotional opening", "love", "compassion"],
+    "keywords_reversed": ["emotional blockage", "repressed feelings", "emptiness", "self-protection"],
+    "short_upright": "An opening of the heart and the arrival of feeling. New love, creative emotion, or a wellspring of compassion ready to overflow.",
+    "short_reversed": "Feelings dammed up or turned away. Emotional walls, self-protection, or a heart that can't quite let what's offered land."
+  },
+  {
+    "id": "two-of-cups",
+    "name": "Two of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 2,
+    "keywords_upright": ["partnership", "mutual attraction", "connection", "harmony"],
+    "keywords_reversed": ["imbalance", "miscommunication", "tension", "broken trust"],
+    "short_upright": "Two hearts meet as equals and something real takes shape between them. A connection built on mutual respect, attraction, or the simple recognition of a kindred soul.",
+    "short_reversed": "A bond out of balance or crossed wires between two people. Resentment, withdrawal, or the slow drift that follows when care stops flowing both ways."
+  },
+  {
+    "id": "three-of-cups",
+    "name": "Three of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 3,
+    "keywords_upright": ["celebration", "friendship", "community", "joy"],
+    "keywords_reversed": ["isolation", "gossip", "overindulgence", "third-wheel"],
+    "short_upright": "A gathering of friends and the warmth of shared joy. Milestones honored together, creative collaboration, or simply the pleasure of being among your people.",
+    "short_reversed": "The social circle sours or closes you out. Gossip, cliques, overindulgence, or the quiet ache of feeling outside the group you once belonged to."
+  },
+  {
+    "id": "four-of-cups",
+    "name": "Four of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 4,
+    "keywords_upright": ["apathy", "contemplation", "discontent", "reevaluation"],
+    "keywords_reversed": ["new awareness", "acceptance", "motivation", "re-engagement"],
+    "short_upright": "A restless discontent sets in despite having enough. Boredom, introspection, or the stubborn feeling that something is missing even when good things are already being offered.",
+    "short_reversed": "The fog of apathy lifts and your eyes open again. Renewed interest, acceptance of what is, or the willingness to reach for the cup you'd been ignoring."
+  },
+  {
+    "id": "five-of-cups",
+    "name": "Five of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 5,
+    "keywords_upright": ["loss", "grief", "regret", "disappointment"],
+    "keywords_reversed": ["acceptance", "moving on", "forgiveness", "recovery"],
+    "short_upright": "Grief pulls your gaze toward what's been spilled. Loss, regret, or disappointment that makes it hard to notice the cups still standing behind you.",
+    "short_reversed": "The weight of sorrow begins to ease and perspective returns. Forgiveness, healing, or turning at last to see what remains and can still be carried forward."
+  },
+  {
+    "id": "six-of-cups",
+    "name": "Six of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 6,
+    "keywords_upright": ["nostalgia", "innocence", "memory", "reunion"],
+    "keywords_reversed": ["stuck in the past", "outgrown ties", "naivety", "moving forward"],
+    "short_upright": "A softening into memory and the sweetness of simpler times. Reunions, childhood ties, or the gentle gift of kindness offered without agenda.",
+    "short_reversed": "Nostalgia curdles into a refusal to grow up or let go. Clinging to what was, idealizing the past, or finally releasing an old attachment to step into the present."
+  },
+  {
+    "id": "seven-of-cups",
+    "name": "Seven of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 7,
+    "keywords_upright": ["choices", "fantasy", "illusion", "daydreams"],
+    "keywords_reversed": ["clarity", "decision", "disillusionment", "focus"],
+    "short_upright": "Too many tempting options shimmer in the air at once. Imagination runs rich, but fantasy and wishful thinking can blur what's actually worth pursuing.",
+    "short_reversed": "The mist clears and a real choice becomes possible. Priorities snap into focus, illusions fall away, and one cup is finally lifted from the shelf."
+  },
+  {
+    "id": "eight-of-cups",
+    "name": "Eight of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 8,
+    "keywords_upright": ["walking away", "disillusionment", "seeking meaning", "departure"],
+    "keywords_reversed": ["avoidance", "fear of change", "returning", "indecision"],
+    "short_upright": "Turning your back on something that no longer nourishes you. A quiet, deliberate departure in search of deeper meaning, even when the life behind you still looks fine on paper.",
+    "short_reversed": "Hesitation at the threshold of leaving. Either clinging to what's already hollow, or attempting to return to something you've genuinely outgrown."
+  },
+  {
+    "id": "nine-of-cups",
+    "name": "Nine of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 9,
+    "keywords_upright": ["contentment", "satisfaction", "wishes granted", "gratitude"],
+    "keywords_reversed": ["smugness", "unfulfilled wishes", "shallow pleasures", "inner dissatisfaction"],
+    "short_upright": "The emotional wish granted and savored. Contentment, pride in what you've built, and the simple pleasure of having enough of what you actually wanted.",
+    "short_reversed": "Satisfaction that doesn't quite satisfy. Smugness, hollow pleasures, or a wish fulfilled that turns out not to have been the real one after all."
+  },
+  {
+    "id": "ten-of-cups",
+    "name": "Ten of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 10,
+    "keywords_upright": ["emotional fulfillment", "family", "harmony", "lasting happiness"],
+    "keywords_reversed": ["disharmony", "broken home", "misaligned values", "surface happiness"],
+    "short_upright": "The rainbow arcs over a life shared with those you love. Family, belonging, and the deep, ordinary happiness of emotional bonds that hold.",
+    "short_reversed": "The picture of togetherness cracks along its seams. Family strain, values out of alignment, or a happy facade hiding tensions underneath."
+  },
+  {
+    "id": "page-of-cups",
+    "name": "Page of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 11,
+    "keywords_upright": ["creative spark", "intuitive message", "curiosity", "tender feeling"],
+    "keywords_reversed": ["emotional immaturity", "moodiness", "creative block", "escapism"],
+    "short_upright": "A small, surprising offering from the inner world. A creative nudge, an intuitive hunch, or a tender feeling that arrives with the openness of a child.",
+    "short_reversed": "The soft voice sulks or sours. Emotional immaturity, moodiness, creative blockage, or retreating into fantasy rather than feeling what's actually there."
+  },
+  {
+    "id": "knight-of-cups",
+    "name": "Knight of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 12,
+    "keywords_upright": ["romance", "following the heart", "charm", "idealism"],
+    "keywords_reversed": ["moodiness", "unrealistic expectations", "broken promises", "emotional manipulation"],
+    "short_upright": "The heart's envoy rides in with a cup held high. Romance, artistic inspiration, and the graceful pursuit of what beauty and feeling call you toward.",
+    "short_reversed": "The romantic gesture rings hollow or tips into drama. Idealism untethered from reality, moodiness, or charm deployed in place of honesty."
+  },
+  {
+    "id": "queen-of-cups",
+    "name": "Queen of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 13,
+    "keywords_upright": ["emotional intelligence", "empathy", "intuition", "nurturing"],
+    "keywords_reversed": ["emotional overwhelm", "codependency", "boundary loss", "self-neglect"],
+    "short_upright": "Deep feeling held with steady grace. Intuitive, empathic, and nurturing without losing herself, she reads the currents of the heart and responds with care.",
+    "short_reversed": "The waters overflow their banks. Emotional overwhelm, absorbing others' feelings at your own expense, or caretaking that slides into codependence."
+  },
+  {
+    "id": "king-of-cups",
+    "name": "King of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 14,
+    "keywords_upright": ["emotional mastery", "compassion", "diplomacy", "composure"],
+    "keywords_reversed": ["emotional suppression", "volatility", "manipulation", "moodiness"],
+    "short_upright": "Feeling mastered without being denied. Compassionate leadership, steadiness under pressure, and the wisdom to hold strong emotion without being tossed by it.",
+    "short_reversed": "The calm surface hides turbulent depths. Suppressed feeling that erupts unpredictably, moodiness, or emotional leverage used to control those nearby."
+  }
+]
